@@ -11,10 +11,10 @@ To install my solution to the Mysterious Organism project, follow these steps:
 To use my solution to the Mysterious Organism project, follow these steps:
 
 1. Open the **``main.js``** file in your code editor.
-2. Create new instances of pAequor using the **``pAequorFactory()``** factory function
-3. Access the **``mutate()``** method on an instance of pAequor to mutate a random base in it's DNA
-4. Access the **``compareDNA()``** method on an instance of pAequor and pass another instance as an argument to compare the DNA of the two objects and return a percentage of similarity 
-5. Access the **``willLikelySurvive``** method on an instance of pAequor to determine it's likelihood of survival 
+2. Create new instances of pAequor using the **``pAequorFactory()``** factory function. 
+3. Access the **``mutate()``** method on an instance of pAequor to mutate a random base in it's DNA.
+4. Access the **``compareDNA()``** method on an instance of pAequor and pass another instance as an argument to compare the DNA of the two objects and return a percentage of similarity. 
+5. Access the **``willLikelySurvive``** method on an instance of pAequor to determine whether or not it is likely to survive.  
 
 ## ⭐ Features
 My solution to the Mysterious Organism project has the following features:
