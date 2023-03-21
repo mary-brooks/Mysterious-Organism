@@ -23,7 +23,7 @@ My solution to the Mysterious Organism project has the following features:
 - Mutates a random base in the organism's DNA
 - Compares the DNA of two pAequor objects and returns the percentage of DNA bases that are the same 
 - Checks if an instance of pAequor is likely to survive based on the percentage of CG bases in its DNA
-- Generates 30 instances of pAequor which are likely to survive and stores them in an empty array 
+- Generates 30 instances of pAequor which are likely to survive and stores them in an array 
 
 ## ⚡ Technologies Used
 My solution to the Mysterious Organism project was built using the following technologies:
